@@ -3,14 +3,14 @@
 
 >_An AI-Powered Image and Speech Recognition System_
 
-###Project Overview
+### Project Overview
 ---
 In this project, a Python-based image and speech recognition system will be developed.<br> The system will identify and categorize objects in images (such as people, cars, fruits, and other objects) using OpenCV and TensorFlow. <br>It will work in conjunction with ChatGPT to provide users with comprehensive details about the identified objects, which they can download as a PDF.<br> Prior to creating the PDF, users will have the option to modify the prompt.
 <br>
 
 
 
-##key features of Visionwishper :
+## key features of Visionwishper :
 ---
 
 <body>
@@ -55,5 +55,5 @@ In this project, a Python-based image and speech recognition system will be deve
         </tr>
     </table>
 </body>
-</html>
+
 
